@@ -1,2 +1,2 @@
-# EtheriumJS-Boilerplate
-Boilerplate solution for JavaScript Etherium projects
+# EthereumJS-Boilerplate
+Boilerplate solution for JavaScript Ethereum projects
